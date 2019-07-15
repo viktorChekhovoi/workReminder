@@ -1,0 +1,4 @@
+curl -i https://api.github.com/users/*username* - display basic info about user
+curl -i https://api.github.com/repos/*username*/*repository_name* - display basic info about repository
+curl -i https://api.github.com/repos/*username*/*repository_name*/commits - displays all commits repository                                          
+
